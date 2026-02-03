@@ -2,6 +2,15 @@
 
 This project demonstrates a Retrieval Augmented Generation system using **Endee** as the vector database.
 
+## How Endee Is Used?
+Endee is the core vector database in this project.
+
+Stores vector embeddings of document chunks
+Performs fast semantic similarity search
+Returns the most relevant document content for a given query
+Acts as the retrieval layer for the RAG pipeline
+This demonstrates a real-world use case where vector search is central.
+
 ## Features
 - Semantic search
 - RAG pipeline
