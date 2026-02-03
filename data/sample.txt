@@ -1,0 +1,3 @@
+Endee is a high performance vector database.
+Vector databases enable semantic search.
+Retrieval Augmented Generation combines search with LLMs.
